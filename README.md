@@ -50,7 +50,7 @@ This project serves as a foundation for creating specialized QA models tailored 
 The project relies on the following libraries and packages:
 
 - [Python 3.x](https://www.python.org/downloads/)
-- [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
+- [Simple Transformers](https://simpletransformers.ai/docs/usage/)
 
 ## How to Run
 
