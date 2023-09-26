@@ -1,4 +1,5 @@
-# Question Answering Mini Project-by Customized training
+# Question Answering Mini Project
+## using the fine tuning we can train the already trained models using our data.
 
 This mini project demonstrates how to create a Question Answering (QA) model using pre-trained models like BERT, RoBERTa, DistilBERT, and DistilRoBERTa. The objective is to understand the process of building QA models and to evaluate their performance.
 
